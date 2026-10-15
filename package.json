@@ -1,0 +1,15 @@
+{
+  "name": "tely-eberron-wayfinder-2014",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python3 tools/build.py",
+    "compile": "node tools/compile-packs.mjs",
+    "test": "node --test tests/*.test.mjs && python3 tools/validate.py",
+    "package": "python3 tools/package_release.py"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "3.0.5"
+  }
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "changeling",
+    "file": "assets/art/changeling.png",
+    "source": "Supplied WGtE prototype, page 60",
+    "kind": "official sourcebook illustration"
+  },
+  {
+    "name": "kalashtar",
+    "file": "assets/art/kalashtar.png",
+    "source": "Supplied WGtE prototype, page 62",
+    "kind": "official sourcebook illustration"
+  },
+  {
+    "name": "shifter",
+    "file": "assets/art/shifter.png",
+    "source": "Supplied WGtE prototype, page 64",
+    "kind": "official sourcebook illustration"
+  },
+  {
+    "name": "warforged",
+    "file": "assets/art/warforged.png",
+    "source": "Supplied WGtE prototype, page 69",
+    "kind": "official sourcebook illustration"
+  },
+  {
+    "name": "khyber-dragonshard",
+    "file": "assets/art/khyber-dragonshard.png",
+    "source": "Supplied WGtE prototype, page 113",
+    "kind": "official sourcebook illustration"
+  },
+  {
+    "name": "dimensional-seal",
+    "file": "assets/art/dimensional-seal.png",
+    "source": "Supplied WGtE prototype, page 118",
+    "kind": "official sourcebook illustration"
+  },
+  {
+    "name": "Clawfoot Raptor",
+    "file": "assets/creatures/clawfoot-raptor-cutout.png",
+    "source": "https://www.dndbeyond.com/avatars/thumbnails/2265/42/1000/1000/636678129810649453.png",
+    "kind": "official artwork, imagegen cutout edit; rider and scenery removed",
+    "prompt": "Remove rider and scenery; preserve the dinosaur and saddle on alpha transparency."
+  }
+]

@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+.validation-roundtrip/
+dist/
+packs/
+assets/pages/
+assets/art/
+assets/creatures/
+content/
+packs-src/
+source/book-text.txt
+source/book-pages.json

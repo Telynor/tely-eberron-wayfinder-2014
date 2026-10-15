@@ -1,0 +1,2807 @@
+[
+  {
+    "name": "Personal Regrets",
+    "formula": "1d10",
+    "page": 10,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "While you were serving in the Last War, you were forced to abandon an injured comrade. You don’t know if they survived."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You placed your faith and your fortune in the hands of a lover who betrayed you. You don’t know if you can ever trust anyone again."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You murdered a rival. Your actions may have been justified, but your rival’s face still haunts you."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "Someone put their trust in you and you betrayed them for personal gain. You may regret it now, but you can never repair the damage you’ve done."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "You squandered your family’s fortune and brought shame and ruin to your household."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "You engaged in covert operations for a nation (either as a spy or soldier). While you were serving your country, you did unforgivable things."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "You abandoned your family to pursue a life of adventure. Your village was destroyed in the war and you don’t know if they survived."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "You made a bargain with an extraplanar entity that you now regret."
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "You made a promise to a child or a lover that you failed to keep."
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "You volunteered for mystical experiments. These may be responsible for your class abilities (sorcerer spellcasting, barbarian rage), but you don’t know if there will be side effects."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Debts",
+    "formula": "1d10",
+    "page": 11,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You committed a crime during the Last War, and now you’re being blackmailed by someone who has proof. Your actions may have been justified, but the law won’t care."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You’ve got a gambling problem. If you can’t repay Daask (see chapter 6), you’re going to be playing tag with a cockatrice."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You own an uncommon magic item, but you had to sell it to a pawn shop. If you can’t reclaim it within the month, they’ll sell it off."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You were making a delivery on behalf of the Boromar Clan (see chapter 6) and you lost the merchandise."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "Someone knows the whereabouts of a sibling or loved one you thought lost in the Mourning, but that information is going to cost you."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "You have a degenerative disease that can’t be cured by mundane means. If you can’t get a lesser restoration soon, you’re going to start showing symptoms."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "Your family lost everything in the Last War. 200 gp would get them a stake in a new (farm/inn/stagecoach)."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "You’ve got a price on your head. Until you settle things with House Tharashk, you’d better keep an eye out for bounty hunters."
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "You’ve got an opportunity to join an influential secret society. But you’ve only got one month to raise the membership dues."
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "Roll again. It’s not your debt: it’s you’re lover’s problem. Can you solve the problem before they have to face the consequences?"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Military Background",
+    "formula": "1d10",
+    "page": 13,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You were a common soldier, facing the enemy on the front lines of the interminable war. (Soldier)"
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You served on the open seas, whether as a marine, a naval officer, a privateer or a smuggler. (Sailor)"
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You commanded troops and led soldiers into battle. Were you a good leader, or are you haunted by your failures? (Soldier or noble)"
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You were a spy, gathering intelligence for your nation. Are you out of the business, or could you still be called back in? (Charlatan)"
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "You were tasked with maintaining morale and raising the spirits of your soldiers. (Entertainer)"
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "You provided spiritual support to your troops. Were you always devout, or did you find your faith on the battlefield? (Acolyte)"
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "You used your remarkable knowledge as part of a military think tank… or perhaps you provided arcane support on the battlefield. (Sage)"
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "You were a smuggler or a profiteer, taking advantage of the war to line your pockets. (Criminal or charlatan)"
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "You opposed the war. The actions you took to protect the innocent have made you a local legend. (Folk hero)"
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "You used the connections of your influential family to avoid military service. Are you haunted by this, or do you remain indifferent? (Noble)"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Magic Item Crafting Complications",
+    "formula": "d6",
+    "page": 48,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "A Dragonmarked House takes an interest in your work. Do they view you as a threat, or are they impressed by your techniques? Do they want to buy the item, and what will happen if you refuse?"
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "A mishap creates a temporary manifest zone."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You need to acquire an additional rare component."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "The shifting balance of the planes interferes with your work; you must wait for the current planar alignment to change."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "Your efforts draw the attention of one of the conspiracies of Eberron— such as the Chamber, the Aurum, the Emerald Claw, or the Lords of Dust."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "Your item unexpectedly becomes sentient."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Kalashtar Quirks",
+    "formula": "1d10",
+    "page": 62,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You try to understand the motives and feelings of your enemies."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You prefer using telepathy over speaking aloud."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You feel a strong drive to protect the innocent."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You apply dream logic to mundane situations."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "You discuss things out loud with your quori spirit."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "You suppress your emotions and rely on logic."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "You are strongly influenced by the emotions of those around you."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "You prefer to find nonviolent solutions to problems whenever possible."
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "You are driven by a warrior spirit and will fight for any noble cause."
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "You are obsessed with Dreaming Dark conspiracies."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Warforged Quirks",
+    "formula": "1d10",
+    "page": 68,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You analyze (out loud) the potential threat posed by every creature you meet."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You don’t understand emotions and often misread emotional cues."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You are fiercely protective of anyone you consider a friend."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You often say the things you are thinking aloud without realizing it."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "You try to apply wartime tactics and discipline to every situation."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "You don’t know how to filter your feelings and are prone to dramatic emotional outbursts."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "You don’t understand clothing beyond its utility and assume that what a creature wears denotes its job and status."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "You are obsessed with your appearance, and constantly polish and buff your armor."
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "You are deeply concerned with following proper procedures and protocols."
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "War is the only thing that makes sense to you, and you’re always looking for a fight."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Mror Past",
+    "formula": "1d6",
+    "page": 71,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "A feud with a rival clan has gotten out of hand, and it’s best that you leave the Holds for a few decades."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You’re in a large family and there’s no room for you to shine in your hold; you hope to prove yourself in the wider world."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "Your clan has arranged your marriage and your future; you’ve decided to have a few adventures before you settle down."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You’re pursuing a vendetta with a personal rival. Are you seeking to defeat them in battle or in business?"
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "You’re searching for a legendary dwarven artifact, removed from the Mror Holds centuries ago by a Karrnathi noble."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "You want to assemble a band of champions who can help you explore the ancient ruins beneath your ancestral home."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Zil Schemes",
+    "formula": "1d10",
+    "page": 76,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "Your family is working on a new form of elemental binding, but they need Khyber dragonshards— lots of them."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You have a mysterious contact who sends you missions via sending; when you follow their instructions, you invariably receive a reward."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You’ve acquired a plot of land in Xen’drik. You’ve never been there, and if you don’t visit it within a year, you’ll lose the claim."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "Due to an unusual twist of Triumvirate law, you share the same name with a number of other Zil and you’re all legally considered to be the same person."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "You’ve acquired a spellshard that contains a vast amount of text in a seemingly unbreakable code."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "You know the location of a wanted war criminal. Will you turn them in, or try to get something in exchange for your silence?"
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "You’ve been selling false treasure maps. But now you’ve found one that might be real."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "You’ve acquired a controlling stake in a distant dragonshard mine, but the mine was abandoned centuries ago due to “problems.” Kobolds? Aberrations? There’s only one way to find out."
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "Your family is facing financial ruin and they’ve taken out a lucrative life insurance policy on you. It only pays out if you die under unusual circumstances, and they’re encouraging you to seek out ever more dangerous adventures."
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "You’re peddling a life extension scheme where clients are petrified by a medusa and then restored after a predetermined amount of time."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Talenta Halfling Quirks",
+    "formula": "1d10",
+    "page": 80,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You are constantly amazed by things the people of the Five Nations take for granted."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You pattern your behavior on a particular species of dinosaur."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You are extremely curious, and you’re always searching for new experiences."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You love to boast, and you’re always telling exaggerated stories of your amazing adventures."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "You wear a mask that you believe holds the spirit of your former mount, and you talk to it when you are troubled."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "You don’t understand the concept of “truth.” To you, everything is a story and it’s all about how you tell it."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "You are annoyed by buildings and tools designed without consideration for small creatures."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "You seek vengeance for a wrong done to your tribe or family."
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "You never forget an insult or injury."
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "You see the hand of the spirits in everything that occurs around you."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Dragonmark Quirks",
+    "formula": "1d6",
+    "page": 92,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "Your dragonmark is unusually small or remarkably large."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "Your dragonmark slowly moves around your body."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "Your dragonmark glows dramatically when you use it."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "Your dragonmark tingles when you’re near someone with the same mark."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "Your dragonmark tickles when you use it."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "Your dragonmark is an unusual color but a normal shape."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "House Agent Role",
+    "formula": "d8",
+    "page": 94,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "Acquisition"
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "Investigation"
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "Research & Development"
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "Security"
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "Intimidation"
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "Exploration"
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "Negotiation"
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "Covert Operations"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "House Agent · Personality Trait",
+    "formula": "d8",
+    "page": 95,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "I never let emotion complicate work."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "I’m always looking to improve efficiency."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "I share trivia about my house’s business (medicine, ships, warforged)."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "I hold myself and anyone I work with to extremely high standards."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "I never forget an insult made against myself or my house."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "I’m very excited and enthusiastic about everything my house does."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "I’m representing my house and take great pride in my personal appearance."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "I’m critical of monarchies and opposed to any restrictions on the houses."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "House Agent · Ideal",
+    "formula": "d6",
+    "page": 95,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "Common Good. My house serves a vital function, and its prosperity will help everyone. (Good)"
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "Tradition. I uphold traditions of my house and bring honor to my family. (Lawful)"
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "Innovation. Abandon old traditions and find better ways to do things. (Chaotic)"
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "Power. I want to ensure the prosperity of my house and wield its power myself. (Evil)"
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "Discovery. I want to learn all I can, both for my house and for my own curiosity. (Any)"
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "Comfort. I want to ensure that me and mine enjoy the best things in life. (Any)"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "House Agent · Bond",
+    "formula": "d6",
+    "page": 95,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "My house is my family, and I would do anything for my family."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "I love someone from another house, but such relationships are forbidden."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "Someone I love was killed by a rival faction within my house, and I will have revenge."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "I don’t care about the house as a whole, but I would do anything for my old mentor."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "I believe my house needs to evolve to survive, and I need to lead that change."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "I am determined to impress the leaders of my house, and to become a leader myself."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "House Agent · Flaw",
+    "formula": "d6",
+    "page": 95,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "I’m overly concerned with following established procedures and protocols."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "I’m obsessed with conspiracy theories and worried about secret societies and hidden demons."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "I believe that my house and bloodline makes me better than everyone else."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "I’m concealing a secret that could get me driven from my house."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "I have strong religious beliefs that aren’t shared by others in my house."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "I’m working for a hidden faction in my house that gives me secret assignments."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Aberrant Mark Flaws",
+    "formula": "1d8",
+    "page": 112,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "Your mark is a source of constant physical pain."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "Your mark whispers to you, though you may not understand what it says."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "In times of stress, your mark may trigger a cantrip effect involuntarily."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "The skin around your mark has an unusual appearance: burned, scaly, withered, etc."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "Mundane animals become uneasy around you."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "You have dramatic mood swings any time you use your mark."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "Your appearance changes in a minor way every time you use your mark."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "You have horrific nightmares after you use your mark."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Acolyte",
+    "formula": "1d4",
+    "page": 124,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You’ve come to Sharn to investigate corruption in your church. Have you been sent by authorities in your faith, or are you driven by a divine vision?"
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You’re tied to a small temple in one of the lower wards of Sharn. It’s poor and dilapidated, but it’s a true bastion of your faith and doing good work for the struggling people of the ward."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You’re here on a pilgrimage, seeking an audience with the head of your faith in Sharn… but the intermediaries have demanded a small fortune to set up this meeting."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You’re a minor acolyte at one of the major temples. It’s a maze of intrigue, graft, and politics. You’re playing the game, working with a patron within the church. Do you hope you can improve things once you rise up in hierarchy? Or are you only interested in power and influence?"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Charlatan",
+    "formula": "1d4",
+    "page": 125,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You’re a con artist from the lower wards, but you’ve established a false identity as an upper ward noble."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You’ve crafted the identity of a prophet driven by holy visions. If you are a divine spellcaster, your actual faith may be entirely different from the one you profess."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You’ve adopted the identity of a refugee from the war, but in fact you’re running from an infamous past. Are you a war criminal? An agitator? A former spy hiding from your employers?"
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You’re a covert operative working for another nation, or for a powerful agency (a dragonmarked house, the City Watch, a criminal organization). Are you carrying out missions, or are you a sleeper agent building a deep cover?"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Criminal",
+    "formula": "1d4",
+    "page": 125,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You have family or friends in the organization, but you’ve still got to prove yourself to the gang."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You retired from the criminal life long ago. But you still have deep roots with the organization, and now they’re pulling you back in."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You’re secretly working for the City Watch or a foreign crime agency, trying to worm your way into the underworld of Sharn."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You’re an independent agent working with more than one of Sharn’s gangs. While you value your freedom, if you’re not careful you could make enemies on all sides."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Entertainer",
+    "formula": "1d4",
+    "page": 126,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You’re a favorite in the toughest taverns of the lower wards. The darker the dive, the better."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You’re an understudy at one of the grand theaters in Upper Menthis."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You specialize in religious music and performance. You will usually be welcomed at any temple of your faith."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You’re preserving an unusual artistic tradition through your work. You have an eccentric patron who’s driving you to explore the roots of this tradition."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Folk Hero",
+    "formula": "1d4",
+    "page": 126,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You grew up in the lower wards. You fight to protect your people both from the depredations of gangs and abuse at the hands of the wealthy."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You’re working to improve the image of a marginalized minority group (goblins, changelings, warforged) in Sharn."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You’re a refugee driven from your home by the war. You want to protect other refugees, but you’re also an opponent of the monarchies that drove the nations into war."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You’re celebrated for an amazing feat of heroism, which may have happened in Sharn or during the war. The problem is that you didn’t actually do it. Can you live up to everyone’s expectations and become the hero they believe you to be?"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Guild Artisan",
+    "formula": "1d4",
+    "page": 127,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You’re a young prodigy. You’ve just joined the guild, but your comrades are amazed at your early talent and push you to excel."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "While you’ve still got your guild ties, you retired from the business some years ago. You hate the newfangled techniques the kids are using today."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You’re a respected member of one of the dragonmarked guilds, but you’re concerned about the policies of the house and the direction of its leadership."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You’re a member of a small alliance of independent artisans. You’re fighting to keep your collective from being crushed by the dragonmarked houses."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Hermit",
+    "formula": "1d4",
+    "page": 127,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You spent the last ten years meditating on a pillar on one of the highest points in Sharn. A recent revelation has brought you down from your perch; what is your quest? Over the course of your isolation you became something of a tourist attraction; a gnome merchant used to sell plaster statues of you on your pillar."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You spent your life in a hidden monastery in Sharn. Did the master of your order send you out on a mission? Or are you the lone survivor of an attack that destroyed your monastery?"
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You were the lone survivor of an airship crash and spent years in a remote location until you were found. In that time, you experienced a remarkable revelation. Did you have a religious experience, or did you have an arcane insight into the workings of the universe?"
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You’re a librarian. You’ve spent your entire life in the labyrinth of books below Morgrave University. A few weeks ago you stumbled on a secret buried in the vaults—something so big that it’s driven you from your beloved books and into a life of adventure. Is it a fragment of the Draconic Prophecy? A complex puzzle leading to an ancient treasure?"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Noble",
+    "formula": "1d4",
+    "page": 128,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You’re ashamed of your family. Were they war profiteers? Are they taking advantage of refugees? Whatever the cause, despite being an heir to wealth and power, you’re currently keeping your lineage a secret."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You’re a local celebrity. You delight in slumming in the lower wards, but wherever you go in Sharn, gossip is sure to follow."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "Your family is involved in a long-term plot to overthrow the monarch of your homeland. Your job is to find capable comrades to help you with your quest and to gain the support of other powerful people."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "While you are still recognized as a noble, your lands were lost in the war and your title is all but meaningless. Can you find a way to regain your birthright?"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Outlander",
+    "formula": "1d4",
+    "page": 128,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You were born in the ruins of Fallen and grew up feral in Sharn, hunting in the cogs and sewers. What finally drew you out into civilization?"
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You served as a mercenary scout in the Last War and followed your comrades to Sharn in the wake of the war."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You were brought to Sharn as a curiosity. You were exhibited in the upper wards for a time until people grew tired of you."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You are an exile from your homeland. Did you commit a terrible crime? Was your tribe wiped out in a feud? Are you following a divine vision?"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Sage",
+    "formula": "1d4",
+    "page": 129,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You’re an untenured researcher at Morgrave University. You’re fascinated by history, and you’re desperate to delve into actual ruins."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "People think you’re crazy. Yes, you have a lot of unorthodox theories. You’re certain that hidden dragons and disguised fiends are manipulating governments and that the Mourning was an inside job. And sure, maybe your “library” is a collection of rotting books and old issues of the Sharn Inquisitive pasted on the walls of a burnt-out bookstore. But what if you’re right? Hmm?"
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You’re with the press. You’re a freelance chronicler for the Sharn Inquisitive, always on the lookout for breaking news. You know your history and you know how to research a story. But if you want to make headlines, you need to be on the scene for something big."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You’re on the cutting edge of arcane theory. House Cannith, Arcanix· they’re all idiots. You’re on on the verge of a major discovery (The cause of the Mourning? The nature of warforged souls? Establishing a connection to new realms of existence?) but the pieces you need are out there in the world."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Sailor",
+    "formula": "1d4",
+    "page": 129,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You’ve got deep ties in Sharn. Your family owns a ship, and you’ve spent as much time on the water as you have on land. Are your people merchants? Explorers? Or privateers?"
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "Your family works the docks in Sharn. You know everything there is to know about ships, and you know half of the captains who pass through the port, but you’ve never had the chance to take to the open sea."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "When you were a child, you served as a deckhand on a ship that explored the coast of Xen’drik. You saw many wondrous things… including a secret location you’ve never forgotten. Now you’re a capable adventurer in your own right. Someday you’ll lead a ship back to that forgotten cove!"
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You’re an infamous pirate. You never harmed a Brelish vessel, but you were the terror of the Thunder Sea, raiding merchants and smugglers alike. At least, you were… until your crew mutinied, leaving you humiliated and stranded in Sharn. But you are sure new fortune lies just ahead!"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Soldier",
+    "formula": "1d4",
+    "page": 130,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "The war is never over. You know your enemies are still plotting, and you’re going to do whatever it takes to protect your nation. If you’re not from Breland, that means serving the interests of your nation in Sharn· whatever those may be."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You’re an old soldier: you served with distinction and retired with honor decades ago. You’ve got an endless supply of stories of your heroic deeds. It’s been a long time since you’ve been in combat and your skills are a little rusty. But you’re sure that if you pick up a sword, it will all come back to you soon enough."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You’re an officer of the Cyran army. You once held a fairly high rank, but your nation is destroyed and your soldiers scattered. Do you still feel bound to protect your people, are you only looking out for yourself?"
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "Your ties aren’t to the traditional military; they’re to the Sharn Watch. You were forced out of the Watch by a group of corrupt officers. You still have friends among the guards, but there’s a lot of bad apples in the barrel. Do you want to clean up the Watch, or are you content to enforce justice on your own?"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Background · Urchin",
+    "formula": "1d4",
+    "page": 130,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You grew up on the streets of Lower Dura. You had to find or steal the things you needed to survive. You don’t trust anyone or anything… except the few friends you’ve made over the years. You’d do anything for your friends—even become an adventurer."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "As an orphan, you were recruited by a gang of thieves. The rest of your crew was wiped out in a brutal gang war, and now you’re looking for a new team."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You grew up crawling the walls, and you know the city better than anyone. The world’s a ugly place, but there’s a lot of wonders in these towers… and you’re happy to share those secrets with your friends."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You’re a refugee. You were put in the camp in High Walls, but no walls can hold you. Sharn itself is an adventure, and you’re dealing with the horrors of your past by exploring your new home."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Falling in Sharn",
+    "formula": "1d10",
+    "page": 143,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "You fall hundreds of feet before striking the ground at the base of the towers."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You fall 3d6x10 feet before striking a bridge. A major bridge in an upper or middle ward will have a feather fall enchantment, otherwise it’s going to be a hard landing."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "You fall 2d4x10 feet and land in a passing skycoach. Do you crush an innocent passenger?"
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "You fall 4d4x5 feet and strike an outcropping, flagpole, or projecting statue. If you survive, you’re still stranded on the edge of a tower or bridge."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "You fall past a hippogriff·make a Dexterity (Acrobatics) check (DC 15) to catch its leg!"
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "A giant owl catches you… and threatens to drop you if it doesn’t get a reward."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "You can fly! Actually, a nearby magewright cast feather fall to save you, but for a moment it feels like you can fly."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "You strike a small air elemental that was drawn to the city. This cushions your fall… but now you’re on top of an air elemental."
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "A guardian angel manifests and catches you. Is this sheer luck due to Sharn’s proximity to Syrania? Or does this celestial have a purpose for you?"
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "You slip through the manifest zone surrounding Sharn and find yourself in the plane of Syrania."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Story · Hook",
+    "formula": "1d8",
+    "page": 155,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "One of the PCs is nearly crushed when a man falls from a high bridge, striking the ground near them and dying instantly. He’s carrying a sealed bag of holding and the badge of an agent of the Argentum, a Thrane agency dedicated to the retrieval of dangerous artifacts."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "The PCs are caught in the middle of a pitched battle… and they don’t know the people on either side."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "The PCs notice a corpse in an alley… a corpse that looks exactly like one of the player characters."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "A former comrade in arms shows up. She’s badly injured, and her enemies are right behind her."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "A gargoyle courier delivers a mysterious package."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "A delirious street preacher has an apocalyptic vision concerning one of the player characters."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "The PCs discover a bound-elemental explosive device in their quarters. They have three rounds to flee or attempt to disarm the device."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "A skycoach crashes through the wall. Is this an attack, or the result of sabotage?"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Story · Villain",
+    "formula": "1d12",
+    "page": 155,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "A dragonmarked baron"
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "An eccentric noble (Aurum)"
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "A local crimelord (Boromar Clan)"
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "A nefarious necromancer (Emerald Claw)"
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "A sinister cultist (Dragon Below)"
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "A misguided paladin (Silver Flame)"
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "A clever doppelganger (Tyrants)"
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "A vengeful warforged (Lord of Blades)"
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "A possessed innocent (Dreaming Dark)"
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "An oni mastermind (Daask)"
+      },
+      {
+        "range": [
+          11,
+          11
+        ],
+        "text": "An enigmatic rakshasa (Lords of Dust)"
+      },
+      {
+        "range": [
+          12,
+          12
+        ],
+        "text": "A disguised dragon (The Chamber)"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Story · Plot",
+    "formula": "1d10",
+    "page": 155,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "Arrange a dangerous alliance."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "Acquire a powerful artifact."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "Assemble and use a magical weapon."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "Defeat a rival."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "Open a planar portal."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "Summon fiends or undead."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "Overthrow a peer or superior."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "Cause a riot in the Cogs."
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "Start a war between two allies."
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "Collapse Skyway or one of the towers."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Story · Twist",
+    "formula": "1d8",
+    "page": 156,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "A friend or former ally is working with the villain."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "The villain is not who they appear to be."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "A third party shows up with their own agenda."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "There’s a hostage, or an ally of the PCs is directly at risk."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "A manifest zone or planar conjunction has an unexpected effect."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "The villain has a personal connection to one of the PCs."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "The initial plot was just a distraction from the actual plot."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "The villain is fighting a greater evil, and their plot is an important part of that."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Sharn Story · Finale Location",
+    "formula": "1d10",
+    "page": 156,
+    "results": [
+      {
+        "range": [
+          1,
+          1
+        ],
+        "text": "An invisible floating fortress above Sharn."
+      },
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "The heart of Khyber’s Gate in the Cogs."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "The Bridge in Callestan in Lower Dura."
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "A Cannith forgehold seized by the villain’s forces."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "The heart of the High Walls refugee camp in Lower Tavick’s Landing."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "A festival at the Pavilion of the Host in Upper Central Plateau."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "A noble’s mansion in the restricted districts of Upper Tavick’s Landing"
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "The vaults of Morgrave University in Upper Menthis Plateau."
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "An abandoned foundry in the Cogs."
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "A demiplane with unusual properties."
+      }
+    ],
+    "notes": [
+      "The source labels ten results 1d8. Corrected to 1d10 so results 9 and 10 are reachable."
+    ]
+  },
+  {
+    "name": "Streets of Lower Sharn",
+    "formula": "2d20",
+    "page": 158,
+    "results": [
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You find a newly-painted mural of a halfling standing atop the bloody corpse of an ogre."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "A dwarf is selling kebabs from a cart. “Crispy spiced rat!” He cries. “The best in the tower!”"
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "A changeling street performer adopts your face and begins to match your actions."
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "An old goblin has goods laid out for sale, odds and ends salvaged from the sewers."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "A pack of children clusters around you, begging for copper or food. Do you help them?"
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "An attractive young human presses a small pamphlet into your hand. “Come to Chance in Dragoneyes! All bets will be covered!”"
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "A sudden, horrible stench makes you gag."
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "You come upon a minotaur with a broken horn and a spiked club in one hand. He’s urinating against a wall, and snarls when he notices you watching."
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "A half dozen rats are clustered around a bloody bundle of cloth. They scurry away as you approach."
+      },
+      {
+        "range": [
+          11,
+          11
+        ],
+        "text": "A young half-elf with a crimson eyepatch offers a fine set of pens and parchment for sale, at a price of 3 sovereigns (3 sp). “Top notch! And not stolen or anything.”"
+      },
+      {
+        "range": [
+          12,
+          12
+        ],
+        "text": "You step into a shallow puddle… and then realize it’s a pool of fresh blood."
+      },
+      {
+        "range": [
+          13,
+          13
+        ],
+        "text": "You nearly walk into a well-dressed halfling. She studies your face carefully and scowls. Other onlookers carefully turn away."
+      },
+      {
+        "range": [
+          14,
+          14
+        ],
+        "text": "A large black and white cat watches you from an alley. It’s caught a surprisingly scaly rat."
+      },
+      {
+        "range": [
+          15,
+          15
+        ],
+        "text": "Hungry people stand in line outside a shrine to Boldrei, waiting for conjured bread."
+      },
+      {
+        "range": [
+          16,
+          16
+        ],
+        "text": "You bump into a medusa, causing her to drop the package she’s carrying. You freeze for a moment, then realize she has a leather band covering her eyes. Her serpent mane hisses as she retrieves her belongings."
+      },
+      {
+        "range": [
+          17,
+          17
+        ],
+        "text": "Fresh graffiti shows a Cyran crown with a sword through it. The text reads “Cyre is dead, no place for Mourners.”"
+      },
+      {
+        "range": [
+          18,
+          18
+        ],
+        "text": "A group of shifter children take turns trying to make the biggest howl, laughing in between."
+      },
+      {
+        "range": [
+          19,
+          19
+        ],
+        "text": "Two shifters are arguing in the street. One of them snarls, and sharp fangs extend from her gums."
+      },
+      {
+        "range": [
+          20,
+          20
+        ],
+        "text": "A young woman is repairing a damaged everbright street lantern, muttering curses under her breath."
+      },
+      {
+        "range": [
+          21,
+          21
+        ],
+        "text": "A well-dressed elf from Aerenal walks along the filthy street, accompanied by a dour ogre hauling a large trunk. The elf’s face is hidden behind a brass mask, but he looks lost."
+      },
+      {
+        "range": [
+          22,
+          22
+        ],
+        "text": "A group of drunken soldiers are singing a warbling Brelish anthem from the Last War. A few of them spot you and demand that you join in. Do you?"
+      },
+      {
+        "range": [
+          23,
+          23
+        ],
+        "text": "A dwarf and a goblin are arguing about the Race of Eight Winds, a local sporting event. The goblin insists that the Gargoyle will win this year, while the dwarf supports the Griffon."
+      },
+      {
+        "range": [
+          24,
+          24
+        ],
+        "text": "A warforged skirmisher and a Valenar elf are engaged in an argument. The elf takes a step back and draws her scimitar."
+      },
+      {
+        "range": [
+          25,
+          25
+        ],
+        "text": "A trio of hobgoblins walk through a makeshift market as though they’re hunting for something."
+      },
+      {
+        "range": [
+          26,
+          26
+        ],
+        "text": "You’re drenched by a sudden gout of water—you hope—from a bridge above you."
+      },
+      {
+        "range": [
+          27,
+          27
+        ],
+        "text": "A group of Cyran refugees are gathered in a circle, singing a haunting song."
+      },
+      {
+        "range": [
+          28,
+          28
+        ],
+        "text": "You see a tall, thin woman pulling a body—Dead? Drunk?—into an alley. Her arm is covered with the blood-red lines of an aberrant dragonmark."
+      },
+      {
+        "range": [
+          29,
+          29
+        ],
+        "text": "The window of a bakery holds a display of impossibly beautiful cookies. What is this quality of goods doing down here?"
+      },
+      {
+        "range": [
+          30,
+          30
+        ],
+        "text": "Outside a shop, a grimy halfling promises better deals just down the alleyway."
+      },
+      {
+        "range": [
+          31,
+          31
+        ],
+        "text": "A dragonmarked gnome walks down the street, carrying a small stone in his hand. Every few yards, he raises the stone to his lips and says, “Can you hear me now? Good.”"
+      },
+      {
+        "range": [
+          32,
+          32
+        ],
+        "text": "An austere monk of the Silver Flame makes their way down the street, handing provisions to beggars."
+      },
+      {
+        "range": [
+          33,
+          33
+        ],
+        "text": "You hear someone softly singing the Bear’s March, a Brelish battle anthem from the Last War. The singer is a young man leaning against the wall; he’s missing his left arm."
+      },
+      {
+        "range": [
+          34,
+          34
+        ],
+        "text": "A headless warforged sits in an alley begging for coin. It waves in a signal of thanks whenever someone drops a coin in its bowl."
+      },
+      {
+        "range": [
+          35,
+          35
+        ],
+        "text": "A crowd is gathered around a young adept of the Silver Flame. She’s performing a ritual to purify a pool of run-off water."
+      },
+      {
+        "range": [
+          36,
+          36
+        ],
+        "text": "You notice a large metal hatch in the ground, engraved with warding symbols and a ancient proclamation that it should never be opened."
+      },
+      {
+        "range": [
+          37,
+          37
+        ],
+        "text": "A group of goblin children chatter and shout at one another. They scatter when they see you approach."
+      },
+      {
+        "range": [
+          38,
+          38
+        ],
+        "text": "A goblin tumbles out of a nearby tavern. A warforged juggernaut steps out of the door and snarls “Don’t come around here until you can pay!”"
+      },
+      {
+        "range": [
+          39,
+          39
+        ],
+        "text": "A trio of Morgrave students take notes and they ask a goblin about “the goblin experience.”"
+      },
+      {
+        "range": [
+          40,
+          40
+        ],
+        "text": "Near one of the entrances to the Cogs, you come upon a large mob chanting slogans and shouting. The carry signs protesting the use of warforged laborers."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Streets of Middle Sharn",
+    "formula": "2d20",
+    "page": 160,
+    "results": [
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "“Best tours! All the facts!” crows a kenku guide, trying to catch your eye."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "An Aundairian man in a glamerweave vest·patterned with blazing flames· interrupts your travel. “You know the best place to play cards around here?”"
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "A cheerful gnome offers olfactory illusions. “For just five crowns, I can make the most dismal districts smell like roses!”"
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "A clump of hippogriff dung falls from the sky."
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "A halfling vendor is selling dried lizard jerky from a wagon. “Talentan style!” she says. “Just like elipa used to make!”"
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "A crowd stands outside a rundown building. A grim quartet of halflings wearing the insignia of the Ratcatcher’s Guild head inside."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "A half-chewed drumstick falls from an passing skycoach, nearly hitting you in the head."
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "A dragonmarked half-orc holds what appears to be a dowsing rod, slowly passing it over doors and passerby on the street. The rod begins to shake violently as you approach."
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "A human merchant argues with a giant owl."
+      },
+      {
+        "range": [
+          11,
+          11
+        ],
+        "text": "As you cross a bridge, you notice a pair of stonemasons studding a crack running through the stone span."
+      },
+      {
+        "range": [
+          12,
+          12
+        ],
+        "text": "Two people are arguing in front of a city guard, and you hear accusations that someone is a changeling."
+      },
+      {
+        "range": [
+          13,
+          13
+        ],
+        "text": "A Karrnathi couple step off a lift, a large map in their hands. They turn and rotate the paper several times, trying to make heads or tails of the directions."
+      },
+      {
+        "range": [
+          14,
+          14
+        ],
+        "text": "A warforged waves at you from a dingy cart piled high with a frightening array of foods. “Hungry? I could use some taste testers. As in, what does food taste like?”"
+      },
+      {
+        "range": [
+          15,
+          15
+        ],
+        "text": "A scaled humanoid—one of the lizardfolk or dragonborn of Q’barra—is delighting onlookers with displays of firebreathing."
+      },
+      {
+        "range": [
+          16,
+          16
+        ],
+        "text": "You hear screaming above you. When you look up, you see a well dressed noble gently floating to the ground."
+      },
+      {
+        "range": [
+          17,
+          17
+        ],
+        "text": "A young child sits crying on the stairs of Tharashk inquisitive’s office. If you ask, he sobs that they won’t help find his dog."
+      },
+      {
+        "range": [
+          18,
+          18
+        ],
+        "text": "You spot a moss covered warforged sitting in a small park overlooking the Dagger River. Birds are nesting in an small, open compartment in the torso of the warforged."
+      },
+      {
+        "range": [
+          19,
+          19
+        ],
+        "text": "Two veteran soldiers—a Karrn and a Thrane·are shouting at one another. The Karrn draws a dagger."
+      },
+      {
+        "range": [
+          20,
+          20
+        ],
+        "text": "The crowds part, making room for a halfling warrior riding a snarling clawfoot raptor."
+      },
+      {
+        "range": [
+          21,
+          21
+        ],
+        "text": "Three children follow a warforged juggernaut, giggling and throwing garbage at it. The warforged stoically ignores them."
+      },
+      {
+        "range": [
+          22,
+          22
+        ],
+        "text": "A squad of the Sharn Watch pushes past you, urging people to get out of the way."
+      },
+      {
+        "range": [
+          23,
+          23
+        ],
+        "text": "An Aereni stops you to ask for directions to “Shae Lias.” She wears a silver mask and a glamerweave robe, and carries a sizeable purse."
+      },
+      {
+        "range": [
+          24,
+          24
+        ],
+        "text": "A cheerful man sells a wide variety of souvenirs to commemorate your visit to Sharn: sketches, crystal globes, and small plaster towers."
+      },
+      {
+        "range": [
+          25,
+          25
+        ],
+        "text": "You pass by a shifter and a dwarf merchant arguing with a member of the Sharn Watch. Apparently, the shifter believes he was charmed into making a foolish purchase."
+      },
+      {
+        "range": [
+          26,
+          26
+        ],
+        "text": "You come across a wall where people have written the names of friends lost during the Last War."
+      },
+      {
+        "range": [
+          27,
+          27
+        ],
+        "text": "A halfling wearing the livery of House Jorasco argues with a member of the Sharn Watch, apparently trying to absolve a friend of an accusation of pickpocketing."
+      },
+      {
+        "range": [
+          28,
+          28
+        ],
+        "text": "The smell of fresh, buttered bread wafts through the middle of the thoroughfare, but you cannot find the source."
+      },
+      {
+        "range": [
+          29,
+          29
+        ],
+        "text": "A street performer dressed as King Boranel offers to knight tourists for a copper piece."
+      },
+      {
+        "range": [
+          30,
+          30
+        ],
+        "text": "A well-dressed human floats down from a balcony above, his fall slowed by a feather fall spell. He bids you, “good day” and walks off quickly as you hear guards shouting and pointing from a bridge above."
+      },
+      {
+        "range": [
+          31,
+          31
+        ],
+        "text": "A gargoyle swoops overhead, landing on the street in front of you. It pulls a piece of folded parchment out of a leather satchel and heads into a nearby shop."
+      },
+      {
+        "range": [
+          32,
+          32
+        ],
+        "text": "A one-eyed half-elf opens up his cloak to reveal a selection of wands carved from different woods. “Eight galifars (8 gp) each! Top quality. And not stolen or anything.”"
+      },
+      {
+        "range": [
+          33,
+          33
+        ],
+        "text": "A human fishmonger and a half-elf are arguing about the Race of Eight Winds, a local sporting event. The human thinks that the Hawk can’t lose, while the half-elf insists that this is the year of the Owl."
+      },
+      {
+        "range": [
+          34,
+          34
+        ],
+        "text": "Fresh graffiti proclaims “The crown dies with Boranel!”"
+      },
+      {
+        "range": [
+          35,
+          35
+        ],
+        "text": "A well-dressed gnome offers to sell you an invitation to the Tain Gala. “It’s the grandest celebration in Sharn! I’m too busy to go this month, but it’s a bargain at 10 pieces of gold!”"
+      },
+      {
+        "range": [
+          36,
+          36
+        ],
+        "text": "A man in faded finery extols the virtues of a miracle elixir to a small crowd. “It’s the secret House Jorasco doesn’t want you to know!”"
+      },
+      {
+        "range": [
+          37,
+          37
+        ],
+        "text": "With a loud cry and wildly pinwheeling arms, a child plummets from a crowded bridge above."
+      },
+      {
+        "range": [
+          38,
+          38
+        ],
+        "text": "“They’re eroding our traditions! Don’t let these thieves tell our king what to do!” A young woman stands on a corner shouting about the threat posed by the dragonmarked houses."
+      },
+      {
+        "range": [
+          39,
+          39
+        ],
+        "text": "A panicked gnome runs out of an oracle’s tent. “We’re doomed! Dooooomed!"
+      },
+      {
+        "range": [
+          40,
+          40
+        ],
+        "text": "A man begs for coins outside a Jorasco house of healing. “One galifar, please! I know it’s a lot, but if I can’t raise the money today, she’ll die!”"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "name": "Streets of Upper Sharn",
+    "formula": "2d20",
+    "page": 162,
+    "results": [
+      {
+        "range": [
+          2,
+          2
+        ],
+        "text": "You’re nearly run down by a gilded carriage, pulled by a team of warforged gilded in the same patterns."
+      },
+      {
+        "range": [
+          3,
+          3
+        ],
+        "text": "A magewright offers to use a simple charm to polish the coins in your purse for just 3 crowns (3 cp). “We wouldn’t want anyone to get grime on their gloves from handling filthy coins from the lower wards.”"
+      },
+      {
+        "range": [
+          4,
+          4
+        ],
+        "text": "An illusion of a warforged butler appears as you pass by the sealed gates of a mansion. “I’m afraid my mistress isn’t receiving guests today.”"
+      },
+      {
+        "range": [
+          5,
+          5
+        ],
+        "text": "A dragonmarked halfling offers a cleansing enchantment for 5 crowns (5 cp). “Gets rid of the dirt, brightens your brights, puts a little bounce back in your hair! Just the thing to make a good impression.”"
+      },
+      {
+        "range": [
+          6,
+          6
+        ],
+        "text": "“Make way! Make way!” A young boy clears a path for a jewel-encrusted warforged wearing a lovely fur cloak."
+      },
+      {
+        "range": [
+          7,
+          7
+        ],
+        "text": "A flustered gnome carrying stacks of paper and parchments taller than himself. He is oblivious to the trail of smoke coming from inside a tall, rolled-up scroll on his back."
+      },
+      {
+        "range": [
+          8,
+          8
+        ],
+        "text": "Two nobles are locked in a bitter argument. They’re wearing similar cloaks—glamerweave garments imbued with the illusion of shifting clouds—and this seems to be the problem."
+      },
+      {
+        "range": [
+          9,
+          9
+        ],
+        "text": "A regal woman with auburn hair held back in a silver diadem waits for a skycoach. She holds a darkwood staff encrusted with dragonshards, and she taps it impatiently."
+      },
+      {
+        "range": [
+          10,
+          10
+        ],
+        "text": "A gray-bearded sage argues with a pale tiefling, whose horns appear to be carved from ice. They seem to be debating the dangerous effects of Risian planar influence."
+      },
+      {
+        "range": [
+          11,
+          11
+        ],
+        "text": "A Morgrave professor leads a pack of chattering students on an expedition. From their spelunking gear, you imagine they’re heading down into the Cogs."
+      },
+      {
+        "range": [
+          12,
+          12
+        ],
+        "text": "As you pass by a fancy inn, a nobleman hands you a copper piece and the reins of his griffon. “Do take care now, she bites.”"
+      },
+      {
+        "range": [
+          13,
+          13
+        ],
+        "text": "A tour group pauses to marvel at the gates of a mansion. Apparently, it’s the home of one of the divas of Upper Menthis."
+      },
+      {
+        "range": [
+          14,
+          14
+        ],
+        "text": "An enchanted mirror allows you to view the streets below you, to see how the less fortunate live."
+      },
+      {
+        "range": [
+          15,
+          15
+        ],
+        "text": "A kalashtar storyteller shares a tale of life in Sarlona and the endless struggle between the peaceful monks of Adar and the cruel soldiers of the Inspired."
+      },
+      {
+        "range": [
+          16,
+          16
+        ],
+        "text": "A half-elf wearing a jeweled eyepatch offers a fine spellbook for just forty galifars (40 gp). “Really interesting stuff! And not stolen or anything.”"
+      },
+      {
+        "range": [
+          17,
+          17
+        ],
+        "text": "You come upon a gilded statue of Queen Wroaan, the queen who led Breland into the Last War (“and freedom!” the plaque proclaims)."
+      },
+      {
+        "range": [
+          18,
+          18
+        ],
+        "text": "A warforged with roses twined around her limbs offers to sell you a bouquet for five sovereigns (5 sp)."
+      },
+      {
+        "range": [
+          19,
+          19
+        ],
+        "text": "A string quartet gives an impromptu performance—publicity for the new season of the Kavarrah Concert Hall."
+      },
+      {
+        "range": [
+          20,
+          20
+        ],
+        "text": "A dragonmarked elf dazzles passerby with a illusionary tableau of two dueling dragons."
+      },
+      {
+        "range": [
+          21,
+          21
+        ],
+        "text": "A mansion has a few gargoyles sitting on its walls. They’re probably there as security, but they offer lively commentary about everyone who passes by."
+      },
+      {
+        "range": [
+          22,
+          22
+        ],
+        "text": "A street performer is drawing patterns on the ground in chalk. As each picture is completed, it starts to move."
+      },
+      {
+        "range": [
+          23,
+          23
+        ],
+        "text": "Someone’s painted the crown dies with Boranel across the gates of a noble’s mansion. A member of the Sharn Watch is talking to the servants."
+      },
+      {
+        "range": [
+          24,
+          24
+        ],
+        "text": "A girl wearing the colors of House Vadalis chases her miniature chimera."
+      },
+      {
+        "range": [
+          25,
+          25
+        ],
+        "text": "A team of handlers from House Vadalis walk alongside a small gelatinous cube. “We’re trying it out, seeing if it can keep things clean,” they say."
+      },
+      {
+        "range": [
+          26,
+          26
+        ],
+        "text": "It starts to drizzle. A well-dressed half-elf glares at the sky and snaps his figures, and the rain immediately stops."
+      },
+      {
+        "range": [
+          27,
+          27
+        ],
+        "text": "A vendor offers a selection of mouth- watering Aundairian entrees from a floating cart·only 8 sovereigns (8 sp) for a magical meal!"
+      },
+      {
+        "range": [
+          28,
+          28
+        ],
+        "text": "A member of the Sharn Watch stops you. “Can I help you? Are you sure you’re in the right ward?”"
+      },
+      {
+        "range": [
+          29,
+          29
+        ],
+        "text": "You pass the open doors of a smithy. Inside, a number of hard-working tools are moving and floating independently. A nearby smith waves a wand as if conducting an orchestra."
+      },
+      {
+        "range": [
+          30,
+          30
+        ],
+        "text": "A priest explains how the best way to earn the blessings of Kol Korran is to donate. “For each coin you give, you’ll surely get a hundred in return!”"
+      },
+      {
+        "range": [
+          31,
+          31
+        ],
+        "text": "You come upon a fountain of cold fire. In the center, a brass dragon spits brilliant flames into the air, and the spill down and out into the pool below."
+      },
+      {
+        "range": [
+          32,
+          32
+        ],
+        "text": "A trio of elves perform perform a remarkable display of athletics and illusion magic, advanced publicity for the Carnival of Shadows."
+      },
+      {
+        "range": [
+          33,
+          33
+        ],
+        "text": "A lovely mosaic displays the seal of the united Galifar."
+      },
+      {
+        "range": [
+          34,
+          34
+        ],
+        "text": "A large statue commemorates Lord Dalian ir’Tain II, a noble philanthropist lost at sea. He holds a spyglass in one hand and a dragon turtle in the other."
+      },
+      {
+        "range": [
+          35,
+          35
+        ],
+        "text": "You pass by a Hope Well. Supposedly, any coins you throw in the well are transported down to help the troubled people of the lower wards."
+      },
+      {
+        "range": [
+          36,
+          36
+        ],
+        "text": "A half-elf noblewoman strides by wearing a fancy red dress and carrying a matching parasol. Both the dress and umbrella are decorated with Siberys dragonshards."
+      },
+      {
+        "range": [
+          37,
+          37
+        ],
+        "text": "You come upon a beautiful garden at the edge of a tower. An elf in fine mourning clothes looks out over the edge."
+      },
+      {
+        "range": [
+          38,
+          38
+        ],
+        "text": "A gnome in nautical outfit offers tickets for a ‘celebrity skycoach tour’ for just 5 galifars (5 g) a head."
+      },
+      {
+        "range": [
+          39,
+          39
+        ],
+        "text": "You spot a unit of the Redcloak Battalion, the elite soldiers of the Sharn Watch. They’re talking to the owner of a local tavern."
+      },
+      {
+        "range": [
+          40,
+          40
+        ],
+        "text": "A half-elven poet loudly recites a lengthy poem about the tragic destruction of Cyre."
+      }
+    ],
+    "notes": []
+  }
+]

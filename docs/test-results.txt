@@ -1,0 +1,32 @@
+✔ 2018 integrated armor: proficiency gates, low Dex and each calculation (106.269409ms)
+✔ shifting preserves level scaling, minimum HP and Beasthide die (3.997923ms)
+✔ shared suffering transfers the odd remainder, with no negative damage (2.001614ms)
+✔ one orb reduction covers matching components once and leaves other types intact (1.877771ms)
+✔ conditional intuition never leaks to unrelated checks; initiative remains unconditional (1.912188ms)
+✔ original prototype crafting row, consumables and focus discounts are preserved (1.67619ms)
+✔ gold spending can use mixed coinage and never mutates or overdraws a wallet (2.710818ms)
+✔ duplicate identity handles apostrophes, equipment type changes and class feature parents (8.669094ms)
+✔ UUID references are found inside nested choices and links; unknown sizes fail safely (2.425709ms)
+tely-eberron-wayfinder-2014 Error: Roll interrupted
+    at globalThis.Roll.evaluate (file:///workspace/scratch/f16232011b18/tely-eberron-wayfinder-2014/tests/runtime.test.mjs:46:78)
+    at roll (file:///workspace/scratch/f16232011b18/tely-eberron-wayfinder-2014/scripts/ui.mjs:14:127)
+    at resolveDamage (file:///workspace/scratch/f16232011b18/tely-eberron-wayfinder-2014/scripts/combat.mjs:88:24)
+    at file:///workspace/scratch/f16232011b18/tely-eberron-wayfinder-2014/scripts/combat.mjs:81:45
+✔ Greater Dragonmark setup cannot reset expended activity uses (5.315991ms)
+✔ magewright costs join the native consumption transaction and use mixed coinage (1.550951ms)
+✔ cancelled custom actions preserve native resources (2.603305ms)
+✔ orb damage is reduced before resistance and preserves temporary HP absorption (8.713168ms)
+✔ a failed orb roll falls back to the original native damage update (5.185868ms)
+✔ half cover exception retains three-quarters cover and applies only to the quarry (1.310451ms)
+✔ quarry visibility removes invisible/hidden penalties while preserving other penalties (2.322542ms)
+✔ a Spell Sink blocks foreign spell activities without intercepting unrelated mundane actions (0.790594ms)
+✔ shared suffering transfers one odd remainder without applying resistance again or replaying (1.516013ms)
+✔ spell index prefers the canonical system entry and exposes missing cantrip services without compendium duplicates (2.779222ms)
+ℹ tests 19
+ℹ suites 0
+ℹ pass 19
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 991.398786

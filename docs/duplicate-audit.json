@@ -1,0 +1,73 @@
+{
+  "policy": "First published canonical document wins. Identical republished content is linked, never copied. Distinct rules require an explicit version suffix and review.",
+  "checkedModules": [
+    {
+      "module": "tely-tashas-2014",
+      "version": "0.1.1",
+      "release": "https://github.com/Telynor/tely-tashas-2014/releases/tag/v0.1.1",
+      "sourceZipSha256": "631d071aa47bd2fa2be5798c0354849842b47d7a9d9211ce283d0e383aa444b3"
+    },
+    {
+      "module": "dnd5e",
+      "version": "5.3.3",
+      "rules": "2014"
+    }
+  ],
+  "newClasses": 0,
+  "newSubclasses": 0,
+  "skippedDuplicates": [],
+  "existingArtificer": {
+    "name": "Artificer",
+    "normalized": "artificer",
+    "type": "class",
+    "module": "tely-tashas-2014",
+    "pack": "classes",
+    "uuid": "Compendium.tely-tashas-2014.classes.Item.57ad113c66211d05",
+    "parent": null
+  },
+  "spellLinks": {
+    "Detect Magic": "Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8",
+    "Detect Poison and Disease": "Compendium.dnd5e.spells.Item.2skfDtglk1mGrb3l",
+    "Locate Animals or Plants": "Compendium.dnd5e.spells.Item.Iv2qqSAT7OkXKPFx",
+    "Animal Friendship": "Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B",
+    "Friends": null,
+    "Prestidigitation": "Compendium.dnd5e.spells.Item.udsLtG0BugXHR2JQ",
+    "Mending": "Compendium.dnd5e.spells.Item.kjmjY0zlE6IEiQVL",
+    "Comprehend Languages": "Compendium.dnd5e.spells.Item.4dSvfvTy2ZIJ3K4k",
+    "Message": "Compendium.dnd5e.spells.Item.icZokbgV1jIMpNCv",
+    "Blade Ward": null,
+    "Shield": "Compendium.dnd5e.spells.Item.z1mx84ONwkXKUZd7",
+    "Minor Illusion": "Compendium.dnd5e.spells.Item.oIzA2MEHwxhtQneU",
+    "Gust of Wind": "Compendium.dnd5e.spells.Item.FSMy6VAjDnXY9vWz",
+    "Alarm": "Compendium.dnd5e.spells.Item.7p9IuWrSWFgfyQo2",
+    "Arcane Lock": "Compendium.dnd5e.spells.Item.8cse7rit0oswRPUP",
+    "See Invisibility": "Compendium.dnd5e.spells.Item.DQzlB5Y3k791W5bH",
+    "True Seeing": "Compendium.dnd5e.spells.Item.XzkJpE6XpZfKjODD",
+    "Locate Creature": "Compendium.dnd5e.spells.Item.gXtzz9t1DTzJeLr4",
+    "Find the Path": "Compendium.dnd5e.spells.Item.cYI4RNNjI5GAmLhy",
+    "Beast Sense": null,
+    "Dominate Beast": "Compendium.dnd5e.spells.Item.LrPvWHBPmiMQQsKB",
+    "Mass Healing Word": "Compendium.dnd5e.spells.Item.34ddoYIrnOZ2GFYi",
+    "Greater Restoration": "Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk",
+    "Sanctuary": "Compendium.dnd5e.spells.Item.gvdA9nPuWLck4tBl",
+    "Mordenkainen's Magnificent Mansion": "Compendium.dnd5e.spells.Item.pn4SnsFDvYDiE6rC",
+    "Fabricate": "Compendium.dnd5e.spells.Item.7Fw7Bf1k3xxDVr5L",
+    "Creation": "Compendium.dnd5e.spells.Item.lnaGnxMzpYnbw1uU",
+    "Blink": "Compendium.dnd5e.spells.Item.GSvLWcdCZLQkilXT",
+    "Teleportation Circle": "Compendium.dnd5e.spells.Item.8aWtP5hcrmcEesBW",
+    "Sending": "Compendium.dnd5e.spells.Item.GtGjNjPBgUHxGYAD",
+    "Tongues": "Compendium.dnd5e.spells.Item.gopnZvS0c2jD5FP8",
+    "Compelled Duel": null,
+    "Warding Bond": "Compendium.dnd5e.spells.Item.JVhKeanAXZH62DrF",
+    "Nondetection": "Compendium.dnd5e.spells.Item.aU62xVUBYkAQWIHv",
+    "Mislead": "Compendium.dnd5e.spells.Item.MBMaQLwoy05qzMJ3",
+    "Control Water": "Compendium.dnd5e.spells.Item.7fFHlBk3UNX8gPKL",
+    "Control Winds": null,
+    "Knock": "Compendium.dnd5e.spells.Item.1nhIxh0DsJsntCfj",
+    "Glyph of Warding": "Compendium.dnd5e.spells.Item.pB7XVYwdGNcUG935",
+    "Leomund's Secret Chest": "Compendium.dnd5e.spells.Item.8sgwRh8NUNkn9Vi0",
+    "Feather Fall": "Compendium.dnd5e.spells.Item.pub0OWVEB71XQx1n",
+    "Call Lightning": "Compendium.dnd5e.spells.Item.ehvmg9U9fcMEhE4z"
+  },
+  "runtimePolicy": "Only namespaced content is modified. Imported class/subclass/feat singletons are checked by canonical key; deliberate multiple equipment copies remain possible."
+}

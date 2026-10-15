@@ -1,0 +1,223 @@
+{
+  "id": "tely-eberron-wayfinder-2014",
+  "title": "Tely’s Wayfinder’s Guide to Eberron · 2018 / 2014",
+  "description": "One sourcebook module for the original 2018 prototype: ancestry advancements, dragonmark spell services, items, creatures, tables and original-page references. See the automation audit for implemented scope and live-world validation status.",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Telynor",
+      "url": "https://github.com/Telynor"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "maximum": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.3.3",
+          "maximum": "5.3.3"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module"
+      },
+      {
+        "id": "socketlib",
+        "type": "module"
+      },
+      {
+        "id": "midi-qol",
+        "type": "module"
+      }
+    ],
+    "recommends": [
+      {
+        "id": "tely-tashas-2014",
+        "type": "module",
+        "manifest": "https://github.com/Telynor/tely-tashas-2014/releases/latest/download/module.json",
+        "compatibility": {
+          "minimum": "0.1.1"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "packs": [
+    {
+      "name": "ancestries",
+      "label": "Wayfinder · Ancestries and Dragonmarks",
+      "path": "packs/ancestries",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "features",
+      "label": "Wayfinder · Ancestry Features",
+      "path": "packs/features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "feats",
+      "label": "Wayfinder · Feats",
+      "path": "packs/feats",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "backgrounds",
+      "label": "Wayfinder · House Agent",
+      "path": "packs/backgrounds",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "equipment",
+      "label": "Wayfinder · Equipment and Eldritch Machines",
+      "path": "packs/equipment",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "spells",
+      "label": "Wayfinder · New Spells",
+      "path": "packs/spells",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "creatures",
+      "label": "Wayfinder · Creatures",
+      "path": "packs/creatures",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "tables",
+      "label": "Wayfinder · Roll Tables",
+      "path": "packs/tables",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "reference",
+      "label": "Wayfinder · Original Pages and Chapters",
+      "path": "packs/reference",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "macros",
+      "label": "Wayfinder · Setup and Automation",
+      "path": "packs/macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER",
+        "GAMEMASTER": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Wayfinder · Character Options",
+      "sorting": "a",
+      "packs": [
+        "ancestries",
+        "features",
+        "feats",
+        "backgrounds"
+      ]
+    },
+    {
+      "name": "Wayfinder · Magic and Creatures",
+      "sorting": "a",
+      "packs": [
+        "equipment",
+        "spells",
+        "creatures"
+      ]
+    },
+    {
+      "name": "Wayfinder · Sourcebook and Tools",
+      "sorting": "a",
+      "packs": [
+        "reference",
+        "tables",
+        "macros"
+      ]
+    }
+  ],
+  "url": "https://github.com/Telynor/tely-eberron-wayfinder-2014",
+  "manifest": "https://github.com/Telynor/tely-eberron-wayfinder-2014/releases/latest/download/module.json",
+  "download": "https://github.com/Telynor/tely-eberron-wayfinder-2014/releases/download/v0.1.0/tely-eberron-wayfinder-2014.zip",
+  "readme": "https://github.com/Telynor/tely-eberron-wayfinder-2014/blob/main/README.md",
+  "bugs": "https://github.com/Telynor/tely-eberron-wayfinder-2014/issues",
+  "changelog": "https://github.com/Telynor/tely-eberron-wayfinder-2014/blob/main/docs/CHANGELOG.md"
+}
