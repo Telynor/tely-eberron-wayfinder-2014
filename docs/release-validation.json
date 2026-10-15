@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "zipRootManifest": true,
+  "packagedLevelDBReopened": true,
+  "packs": 10,
+  "documents": 363,
+  "sourceEquality": true,
+  "liveFoundryTested": false
+}

@@ -7,7 +7,7 @@ def files(names):
   p=ROOT/name
   if not p.exists():raise FileNotFoundError(p)
   for f in sorted(p.rglob('*')) if p.is_dir() else [p]:
-   if f.is_file() and '__pycache__'not in f.parts and f.name not in ['LOCK','LOG'] and not f.name.endswith('.log'):yield f
+   if f.is_file() and '__pycache__'not in f.parts and f.name not in ['LOCK','LOG','LOG.old']:yield f
 with zipfile.ZipFile(install,'w',zipfile.ZIP_DEFLATED,compresslevel=6)as z:
  for f in files(['module.json','README.md','NOTICE.md','scripts','packs','content/mark-config.json','assets','docs']):
   if f.name=='clawfoot-raptor.png':continue

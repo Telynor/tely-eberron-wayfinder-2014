@@ -10,3 +10,5 @@ content/
 packs-src/
 source/book-text.txt
 source/book-pages.json
+
+.validation-release/
